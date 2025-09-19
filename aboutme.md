@@ -1,27 +1,25 @@
----
-title: "About Me"
----
-
 # About Me
 
-Hello! I’m **Ramya Vijayakumar**, a law student at **SASTRA Deemed University, Thanjavur**, pursuing my **BBA LL.B. (Hons.) (2023–2028)**.  
+I am a **law student** currently pursuing **BBA LL.B. (Hons.) (2023–2028)** at **SASTRA Deemed University, Thanjavur**.  
+I am committed to expanding my legal knowledge across diverse fields and applying it to real-world challenges.  
 
-I am deeply passionate about **human rights, arbitration, taxation, and international law**. I aspire to use my legal education to contribute meaningfully to society while constantly learning from practical experiences.  
+## Profile
+Passionate about **human rights, arbitration, taxation, and international law**, I aim to build a strong foundation to make meaningful contributions to the legal profession and society.  
 
-Beyond academics, I enjoy **moot courts, legal research, and presenting papers** on contemporary legal issues. These experiences have sharpened my skills in legal interpretation, advocacy, and public speaking.  
+## Key Strengths
+- Legal research  
+- Legal interpretation  
+- Competition law  
+- Intellectual Property Rights  
+- Human rights  
+- Consumer Laws  
+- International laws  
+- Public speaking  
 
----
+## Education
+- **BBA. LL.B. (Hons.) | SASTRA Deemed University, Thanjavur (2023–2028)**  
+- **12th Standard (CBSE) | St John’s English School & Junior College**  
 
-## What Drives Me
-- A strong belief in justice and fairness  
-- A curiosity to explore diverse areas of law  
-- The desire to combine legal expertise with social impact  
-
----
-
-## Outside of Law
-When I’m not buried in case laws or preparing for moot courts, I love reflecting on philosophy, writing, and exploring how law connects with everyday human experiences.  
-
----
-
-📧 Feel free to reach me at: [ramya.fishers@gmail.com](mailto:ramya.fishers@gmail.com)  
+## Languages
+- English  
+- Tamil  
