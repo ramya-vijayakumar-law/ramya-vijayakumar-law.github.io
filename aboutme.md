@@ -17,8 +17,8 @@ Passionate about **human rights, arbitration, taxation, and international law**,
 - Public speaking  
 
 ## Education
-- **BBA. LL.B. (Hons.) | SASTRA Deemed University, Thanjavur (2023–2028)**  
-- **12th Standard (CBSE) | St John’s English School & Junior College**  
+- BBA. LL.B. (Hons.) | SASTRA Deemed University, Thanjavur (2023–2028)  
+- 12th Standard (CBSE) | St John’s English School & Junior College  
 
 ## Languages
 - English  
