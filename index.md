@@ -17,7 +17,8 @@ This site showcases my profile, experiences, achievements, and academic contribu
 - [About Me](aboutme.md) – Background, education, skills, and strengths  
 - [Experience](experience.md) – Internship experiences and practical exposure  
 - [Achievements](achievements.md) – Moot court performances and recognitions  
-- [Conferences](conferences.md) – Research papers and academic presentations  
+- [Conferences](conferences.md) – Research papers and academic presentations
+ 
 ---
 
 ## Internship Experience
