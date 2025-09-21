@@ -1,6 +1,7 @@
 # Achievements
 
 ## Moot Court Experience
+- 19th Pro Bono Environmental Moot Court Compeition, SOEL (Ongoing)
 - **Runner-Up** – 1st KIIT International Moot Competition, Odisha  
 - **Winner** – 2nd Consumer Moot, Dr. Ambedkar GLC, Puducherry  
 - **Winner** – IPR Med-Arb Connaissance 2025 (Intra)  
